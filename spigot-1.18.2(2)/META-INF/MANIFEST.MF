@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Plexus Archiver 4.2.1
+Main-Class: org.bukkit.craftbukkit.bootstrap.Main
+
